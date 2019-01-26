@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew Core\\source\\repos\\RijksMuseum\\RijksMuseum\\RijksMuseum.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew Core\\workspace\\RijksMuseum\\rijks\\RijksMuseum\\RijksMuseum\\RijksMuseum.csproj",
       "projectName": "RijksMuseum",
-      "projectPath": "C:\\Users\\Andrew Core\\source\\repos\\RijksMuseum\\RijksMuseum\\RijksMuseum.csproj",
+      "projectPath": "C:\\Users\\Andrew Core\\workspace\\RijksMuseum\\rijks\\RijksMuseum\\RijksMuseum\\RijksMuseum.csproj",
       "packagesPath": "C:\\Users\\Andrew Core\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew Core\\source\\repos\\RijksMuseum\\RijksMuseum\\obj\\",
+      "outputPath": "C:\\Users\\Andrew Core\\workspace\\RijksMuseum\\rijks\\RijksMuseum\\RijksMuseum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
