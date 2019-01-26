@@ -1,0 +1,11 @@
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\bin\Debug\netcoreapp2.0\RijksMuseum.deps.json
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\bin\Debug\netcoreapp2.0\RijksMuseum.runtimeconfig.json
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\bin\Debug\netcoreapp2.0\RijksMuseum.runtimeconfig.dev.json
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\bin\Debug\netcoreapp2.0\RijksMuseum.dll
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\bin\Debug\netcoreapp2.0\RijksMuseum.pdb
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.AssemblyInfoInputs.cache
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.AssemblyInfo.cs
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.dll
+C:\Users\Andrew Core\source\repos\RijksMuseum\RijksMuseum\obj\Debug\netcoreapp2.0\RijksMuseum.pdb
